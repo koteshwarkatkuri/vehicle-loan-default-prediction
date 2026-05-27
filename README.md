@@ -10,10 +10,10 @@ enabling data-driven loan approval decisions.
 ## App Screenshots
 
 ### Single Applicant Assessment
-![Tab1](screenshots/tab1.png)
+![Tab1](tab1.png)
 
 ### Batch Portfolio Assessment  
-![Tab2](screenshots/tab2.png)
+![Tab2](tab2.png)
 ## Live Demo
 Run locally using steps below.
 
