@@ -7,7 +7,13 @@ Financial institutions face massive NPA losses when vehicle
 loans default. This end-to-end ML system predicts first EMI 
 default risk using 2,33,154 historical L&T Finance loan records 
 enabling data-driven loan approval decisions.
+## App Screenshots
 
+### Single Applicant Assessment
+![Tab1](screenshots/tab1.png)
+
+### Batch Portfolio Assessment  
+![Tab2](screenshots/tab2.png)
 ## Live Demo
 Run locally using steps below.
 
