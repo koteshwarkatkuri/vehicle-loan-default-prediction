@@ -1,12 +1,6 @@
 # vehicle-loan-default-prediction
 End-to-End Credit Risk ML System — Logistic Regression, Random Forest, XGBoost, SHAP, Optuna, Streamlit
 # Vehicle Loan Default Risk Prediction System
-
-## Business Problem
-Financial institutions face massive NPA losses when vehicle 
-loans default. This end-to-end ML system predicts first EMI 
-default risk using 2,33,154 historical L&T Finance loan records 
-enabling data-driven loan approval decisions.
 ## App Screenshots
 
 ### Single Applicant Assessment
@@ -14,6 +8,12 @@ enabling data-driven loan approval decisions.
 
 ### Batch Portfolio Assessment  
 ![Tab2](tab2.png)
+## Business Problem
+Financial institutions face massive NPA losses when vehicle 
+loans default. This end-to-end ML system predicts first EMI 
+default risk using 2,33,154 historical L&T Finance loan records 
+enabling data-driven loan approval decisions.
+
 ## Live Demo
 Run locally using steps below.
 
